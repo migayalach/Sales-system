@@ -1,0 +1,6 @@
+<?php 
+    echo $_GET['desde'];
+    echo $_GET['hasta'];
+	echo $_GET['c1'];
+    echo $_GET['c'];
+?>
